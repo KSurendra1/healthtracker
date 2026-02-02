@@ -23,7 +23,7 @@ A Django-based Health & Fitness Tracker designed for integrating wearable data (
 
 1.  **Clone the repository**:
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/KSurendra1/healthtracker.git
     cd healthtracker
     ```
 
